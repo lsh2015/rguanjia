@@ -1,0 +1,15 @@
+{
+  "name": "珠宝电商接口",
+  "version": "1.0.0",
+  "description": "珠宝电商接口列表",
+  "apidoc": {
+    "title": "珠宝电商接口接口列表",
+    "url" : "http://127.0.0.1:98",
+    "sampleUrl" : "http://127.0.0.1:98",
+    "url1" : "http://218.244.138.142:98",
+    "sampleUrl1" : "http://218.244.138.142:98"
+ },
+ "template":{
+    	"forceLanguage":"zh-cn"
+  		}
+    }
